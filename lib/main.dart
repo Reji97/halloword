@@ -10,7 +10,7 @@ class AplikasiFlutter extends StatelessWidget{
         debugShowCheckedModeBanner: false,
         title: "Aplikasi Flutter",
         home: Scaffold(
-          appBar: AppBar(title: Text('Aplikasi Flutter'),),
+          appBar: AppBar(title: Text('Reji Ainurohim'),),
           body: Material(
             color: Colors.amber,
             child: Center(
